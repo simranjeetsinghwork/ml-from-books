@@ -1,7 +1,7 @@
 site_name: ML from Books
 site_description: Learning Machine Learning and Finance through Code and Intuition
 site_author: Simranjeet Singh
-repo_url: https://github.com/simranjeet-singh/ml-from-books
+repo_url: https://github.com/simranjeetsinghwork/ml-from-books
 theme:
   name: material
   features:
