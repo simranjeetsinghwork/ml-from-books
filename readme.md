@@ -58,9 +58,7 @@ ml-from-books/
 
 The entire site is built automatically and hosted on GitHub Pages:
 
-👉 **[https://github.com/simranjeetsinghwork/ml-from-books](https://github.com/simranjeetsinghwork/ml-from-books)**
-
-*(If the link doesn’t load yet, it will once the repo is public and Pages are enabled.)*
+👉 **[https://simranjeetsinghwork.github.io/ml-from-books/](https://simranjeetsinghwork.github.io/ml-from-books/)**
 
 ---
 
