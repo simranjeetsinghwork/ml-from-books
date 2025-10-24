@@ -125,7 +125,7 @@ Then open: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 Master’s in Applied Computational Science and Engineering, Imperial College London
 Focus: *Machine Learning, Quant Finance, and Statistical Modeling*
 
-📫 [LinkedIn](www.linkedin.com/in/simranjeet-singh-362824250)
+📫 [LinkedIn](https://www.linkedin.com/in/simranjeet-singh-362824250)
 🐙 [GitHub](https://github.com/simranjeetsinghwork)
 
 ---
