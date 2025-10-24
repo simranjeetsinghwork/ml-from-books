@@ -1,0 +1,40 @@
+site_name: ML from Books
+site_description: Learning Machine Learning and Finance through Code and Intuition
+site_author: Simranjeet Singh
+repo_url: https://github.com/simranjeet-singh/ml-from-books
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - content.code.copy
+    - toc.integrate
+  palette:
+    primary: blue
+    accent: indigo
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - def_list
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.superfences
+
+plugins:
+  - search
+  - awesome-pages
+
+nav:
+  - Home: index.md
+  - Regression:
+      - Linear Regression: regression/linear_regression.md
+      - Ridge and Lasso: regression/ridge_lasso.md
+  - Classification:
+      - Logistic Regression: classification/logistic_regression.md
+  - Finance:
+      - Intro to Finance: finance/intro_to_finance.md

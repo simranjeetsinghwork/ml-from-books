@@ -1,0 +1,8 @@
+mkdocs-material
+mkdocs-awesome-pages-plugin
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
