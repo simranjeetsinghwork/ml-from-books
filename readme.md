@@ -58,7 +58,7 @@ ml-from-books/
 
 The entire site is built automatically and hosted on GitHub Pages:
 
-👉 **[https://simranjeet-singh.github.io/ml-from-books](https://simranjeet-singh.github.io/ml-from-books)**
+👉 **[https://github.com/simranjeetsinghwork/ml-from-books](https://github.com/simranjeetsinghwork/ml-from-books)**
 
 *(If the link doesn’t load yet, it will once the repo is public and Pages are enabled.)*
 
@@ -94,7 +94,7 @@ Each notebook includes a reproducible data-loading script.
 Clone and install dependencies:
 
 ```bash
-git clone https://github.com/simranjeet-singh/ml-from-books.git
+git clone https://github.com/simranjeetsinghwork/ml-from-books.git
 cd ml-from-books
 pip install -r requirements.txt
 ```
@@ -125,8 +125,8 @@ Then open: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
 Master’s in Applied Computational Science and Engineering, Imperial College London
 Focus: *Machine Learning, Quant Finance, and Statistical Modeling*
 
-📫 [LinkedIn](https://www.linkedin.com/in/simranjeetsingh98/)
-🐙 [GitHub](https://github.com/simranjeet-singh)
+📫 [LinkedIn](www.linkedin.com/in/simranjeet-singh-362824250)
+🐙 [GitHub](https://github.com/simranjeetsinghwork)
 
 ---
 

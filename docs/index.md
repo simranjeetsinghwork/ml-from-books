@@ -20,4 +20,4 @@ Each topic is explained conceptually and implemented in Python, using realistic 
 ---
 
 **Author:** Simranjeet Singh  
-**GitHub:** [@simranjeet-singh](https://github.com/simranjeet-singh)
+**GitHub:** [@simranjeet-singh](https://github.com/simranjeetsinghwork)
