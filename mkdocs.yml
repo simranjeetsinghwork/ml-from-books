@@ -39,6 +39,8 @@ nav:
   - Mathematical Finance:
       - Intro to Financial Markets and Bonds: finance/intro_to_financial_markets_and_bonds.md
       - Intro to Stocks, Futures & Forwards and Swaps: finance/intro_to_stocks_futures_forwards_and_swaps.md
+  - MLOps:
+      - Introduction: mlops/introduction.md
 
 extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
