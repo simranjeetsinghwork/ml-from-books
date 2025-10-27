@@ -1,55 +1,54 @@
-# Introduction to Financial Markets and Bonds
+# Introduction to Stocks, Futures & Forwards and Swaps
 
-## Financial Markets
-A financial market is a market in which people trade financial securities and derivatives at low transaction costs. Some of the securities include stocks and bonds, raw materials and precious metals, which are known in the financial markets as commodities. [Wikipedia](https://en.wikipedia.org/wiki/Financial_market)
+## Stocks
+A stock is security that gives its owner the right to a proportion of any profit that might be distributed (rather than reinvested) by the firm that issues the stock.
 
-### Types of Financial Markets
-- Exchange Traded Markets: Individuals trade standardized contracts that have been defined by the exchange. Open to retail investors. 
-- Over-the-Counter Markets: Trading is done over phone and computer networks. Restricted to large financial institutions and their clients.
+### Definitions
+- Stockholder / Shareholder: The owner of the stock.
+- Dividends: The profits that the company distributes to the stockholders. Generally random, depends on firm's profits and policy.  
 
-### Securities and Contracts
-- Basic Securities:
-    - Fixed Income (Bonds)
-    - Equities (Stocks)
-- Derivatives and Contracts:
-    - Forwards/Futures
-    - Swaps
-    - Options
+Stocks are risky assets, as compared to Bonds which are risk-free.
+
+### Stock's Performance
+- Profits - Positive Returns
+- Losses - Negative Returns
+
+Sources of returns:
+
+- **Dividend Gains**: Dividends received while in ownership of the stock.
+- **Capital Gains**: On selling. `Selling Price - Buying Price`.
+
+### Getting Long or Short
+**Short Selling**: Borrow the stock from someone (owner) at current price and then sell it. Short seller hopes that the price goes down in future. In the future, rebuy the stock at lower price and give it back to the owner. This position is called the *Short Position*. Returning the stock to the owner is called *Covering the Short Position*.
+
+**Long Position**: Act of buying the stock.
+
+NOTE: In case of Bonds: Short Position is taken by the Debtor, who issues bonds. Long Position is taken by the Creditor who buys bonds.
 
 ---
 
-## Bonds
-### Definitons
-- Bond: Fixed income securities which give the owner the right to a fixed, predetermined payment at a future predetermined date
-- **Nominal Value** / Face Value / Par Value / Principal: The amount of money that the bond will pay in the future.
-- **Maturity**: The date on which the payment is received.
-- Debtor: The party that promises to pay in the future.
-- Creditor: The party that will get paid.
-- **Interest**: The difference between the bond price and the nominal value.
-- Interest Rate: The interest as a percentage of the bond value.
+## Financial Derivatives
+- Financial Instruments whose payoff depends on the value of another financial variable / `underlying asset` (e.g. price of a stock, price of a bond, exchange rate, etc.)
+- Not related to physical assets / business opportunities.
+- Profit of one party becomes the loss of the other party - **Zero Sum Game**.
+- Examples: Futures & Forwards and Swaps
 
-For example: In a fixed deposit, the customer is the creditor, and the bank is the debtor. Here, the bank is the **counterparty** to the customer, and vice-versa.
+## Futures and Forwards
+Contracts where one party agrees to buy the underlying asset at a future pre-determined date at a pre-determined price. The future date is called the Maturity Date. The future price is called the futures price / forwards price.
 
-In principle, bonds are **risk-free securities**.
+| Feature | Futures | Forwards |
+|---|---|---|
+| Trading venue | Exchange-traded (centralized) | Over-the-counter (bilateral, customized) |
+| Settlement frequency | Marked-to-market daily (margining) | Single settlement at maturity (one-time exchange) |
+| Contract standardization | Standardized (size, expiration, terms) | Customized (tailored terms) |
+| Counterparty / credit risk | Low — clearinghouse guarantees | Higher — direct counterparty risk |
+| Liquidity | Typically high | Typically lower |
+| Pricing transparency | High | Low |
 
-### Types of Bonds
-- Depending on Maturity:
-    - Short-term bonds: One year or less in maturity
-    - Long-term bonds: More than one year in maturity
-- Based on Payment Schedule:
-    - **Pure Discount Bonds**: Bonds that involve only an initial payment (initial price) and a final payment (nominal value).
-    - **Coupon Bonds**: The debtor makes periodic payments, to the creditor during the life of the bond, called the *coupons*.
-- Price at which the bond is sold:
-    - Above Par: Higher than the nominal value
-    - At Par: Exactly at the nominal value
-    - Below Par: Lower than the nominal value
 
-Pure Discount Bonds are, for obvious reasons, sold below par. However, coupon bonds can be sold at either par.
-
-### Risks associated with bonds
-- Credit Risk / **Default Risk**: Debtor fails to meet the payment obligations. More common with corporate bonds than the govt bonds. If the debtor fails to fulfil the promise, we say the debtor has *defaulted*.
-- Inflation Risk: Inflation rate might be more than the interest rate.
-- Liquidity Risk: Risk of having to sell the bond prior to maturity at a lower price (due to some personal need).
+- Spot Price: Regular Market price today.
+- Long Position: Buys the asset
+- Short Position: Sells the asset
 
 --- 
 <!-- ## Reference:
